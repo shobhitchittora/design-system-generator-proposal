@@ -2,9 +2,9 @@
 
 ## Goals 
 
-The motivation behind this project is to help educate the community about the importance / principles of building atomic design systems for their products, at the same time help them keep their peace of mind by helping with bootstrapping and keeping assets in sync. 
+The motivation behind this project is to help educate, standardize, streamline the process of building atomic design systems for apps. 
 
-## Pros of doing so
+## Pros of having a design system
 
 * Promotes consistency and cohesion
 * Allows for a more collaborative team effort ( designers and engineers together )
