@@ -15,9 +15,9 @@ The motivation behind this project is to help educate the community about the im
 
 ## Aim 
 
-* World class cli tool to bootstrap a design system.
-* Provide state-of-the-art tooling for handling opinionated workflows
-* *Framework agnostic* ( may it be React, Vue, Angular, Web Components, or even plain old HTML and CSS ).
+* World class cli tool to __bootstrap__ a design system.
+* Provide state-of-the-art tooling for handling __opinionated workflows__.
+* __Framework agnostic__ ( may it be React, Vue, Angular, Web Components, or even plain old HTML and CSS ).
 
 ## Project Outline 
 
